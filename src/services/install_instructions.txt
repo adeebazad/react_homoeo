@@ -1,0 +1,7 @@
+# To enable rich text editing, install react-quill:
+# npm install react-quill
+# or
+# yarn add react-quill
+
+# If you use TypeScript, also install types:
+# npm install --save-dev @types/react-quill
